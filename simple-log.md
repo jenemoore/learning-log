@@ -9,3 +9,5 @@ signed up for: frontendmentor.io, several mailing lists, portfolio bootcamp
 
 ** 8/26
 Math for Data Science: Set Theory
+Portfolio Free Course #1
+created base landing page for portfolio site
