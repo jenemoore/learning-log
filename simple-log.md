@@ -11,3 +11,13 @@ signed up for: frontendmentor.io, several mailing lists, portfolio bootcamp
 Math for Data Science: Set Theory
 Portfolio Free Course #1
 created base landing page for portfolio site
+
+** 8/28
+Lynda.com CSS
+Portfolio Free Course #2 & #3
+Math for Data Science: Numbers
+registered domain for portfolio website
+
+**8/29
+finished Lynda.com CSS
+registered SSL certificate for portfolio website
