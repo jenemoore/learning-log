@@ -21,3 +21,10 @@ registered domain for portfolio website
 **8/29
 finished Lynda.com CSS
 registered SSL certificate for portfolio website
+
+**8/31
+Math for Data Science: Sigma Notation, Mean & Variance
+
+**9/1
+freecodecamp React exercise: finished formatting/basic layout, created variables
+Lynda.com JS Essentials 
