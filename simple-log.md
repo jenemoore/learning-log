@@ -27,4 +27,10 @@ Math for Data Science: Sigma Notation, Mean & Variance
 
 **9/1
 freecodecamp React exercise: finished formatting/basic layout, created variables
-Lynda.com JS Essentials 
+Lynda.com JS Essentials
+
+**9/4
+Math for Data Science: The Cartesian Plane
+
+**9/6
+Math for Data Science: Functions & Graphs
