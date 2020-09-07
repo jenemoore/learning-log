@@ -34,3 +34,8 @@ Math for Data Science: The Cartesian Plane
 
 **9/6
 Math for Data Science: Functions & Graphs
+started A+ certification text
+
+**9/7
+Math for Data Science: Derivatives
+worked on React app (I do not understand as much about React as I thought I did)
