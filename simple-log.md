@@ -34,3 +34,10 @@ Math for Data Science: The Cartesian Plane
 
 **9/6
 Math for Data Science: Functions & Graphs
+
+**9/7
+Math for Data Science: Derivatives
+finished free portfolio course
+
+**9/8
+codepen challenge: 100 divs
