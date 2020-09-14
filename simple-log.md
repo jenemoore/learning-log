@@ -41,3 +41,7 @@ finished free portfolio course
 
 **9/8
 codepen challenge: 100 divs
+
+**9/11
+Lynda.com Javascript Essentials: data, Functions
+read up on Javascript closures
