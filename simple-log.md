@@ -38,6 +38,7 @@ Math for Data Science: Functions & Graphs
 **9/7
 Math for Data Science: Derivatives
 finished free portfolio course
+worked on React app (I do not understand as much about React as I thought I did)
 
 **9/8
 codepen challenge: 100 divs
