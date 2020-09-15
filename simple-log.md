@@ -46,3 +46,12 @@ codepen challenge: 100 divs
 **9/11
 Lynda.com Javascript Essentials: data, Functions
 read up on Javascript closures
+
+**9/13
+Math for Data Science: logarithms and exponents
+
+**9/14
+sorted out the state problem with the React app
+
+**9/15
+Lynda.com Javascript Essentials: the DOM, Javascript clock project
