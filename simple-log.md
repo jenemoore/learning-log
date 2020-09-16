@@ -55,3 +55,4 @@ sorted out the state problem with the React app
 
 **9/15
 Lynda.com Javascript Essentials: the DOM, Javascript clock project
+Math for Data Science: probability
