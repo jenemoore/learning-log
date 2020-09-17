@@ -56,3 +56,7 @@ sorted out the state problem with the React app
 **9/15
 Lynda.com Javascript Essentials: the DOM, Javascript clock project
 Math for Data Science: probability
+
+**9/16
+Kevin Powell Conquering Responsive Layouts: Day 1 [https://courses.kevinpowell.co/conquering-responsive-layouts]
+Math for Data Science: problem solving methods
