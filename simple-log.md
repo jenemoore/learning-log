@@ -61,3 +61,6 @@ Math for Data Science: probability
 Kevin Powell Conquering Responsive Layouts: Day 1 [https://courses.kevinpowell.co/conquering-responsive-layouts]
 Math for Data Science: problem solving methods
 fiddled with React app, still having trouble with state
+
+**9/18
+React app: figured out the rendering problem (created a new one in shuffling around components but figured that one out too); now struggling with buttons
