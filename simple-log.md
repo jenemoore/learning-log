@@ -64,3 +64,7 @@ fiddled with React app, still having trouble with state
 
 **9/18
 React app: figured out the rendering problem (created a new one in shuffling around components but figured that one out too); now struggling with buttons
+
+**9/19
+React app: has stopped rendering when I added the event handlers for the buttons; something has to be in the wrong place but I can't find it
+Kevin Powell Conquering Responsive Layouts: Day 2 (review) & Day 3 (challenge #2)
