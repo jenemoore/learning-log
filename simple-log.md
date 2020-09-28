@@ -59,5 +59,5 @@ Math for Data Science: probability
 
 **9/16
 Kevin Powell Conquering Responsive Layouts: Day 1 [https://courses.kevinpowell.co/conquering-responsive-layouts]
-Math for Data Science: problem solving methods
+Math for Data Science: problem solving methods (probability is awful)
 fiddled with React app, still having trouble with state
